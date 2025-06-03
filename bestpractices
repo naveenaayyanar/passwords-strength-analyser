@@ -1,0 +1,52 @@
+✅ Best Practices for Creating Strong Passwords
+
+1. Use at least 12–16 characters
+
+   * The longer the password, the harder it is to crack.
+
+2. Include a mix of character types
+
+   * Uppercase letters (A–Z)
+   * Lowercase letters (a–z)
+   * Numbers (0–9)
+   * Special characters (`!@#$%^&*()` etc.)
+
+3. Avoid dictionary words or common phrases
+
+   * Don’t use words like `password`, `admin`, or `qwerty`.
+
+4. Avoid personal information
+
+   * No birthdays, names, phone numbers, or pet names.
+
+5. Don’t reuse passwords across websites
+
+   * Each account should have a unique password.
+
+6. Use passphrases when possible
+
+   * Combine unrelated words with symbols:
+     Example: `Red$Monkey!Drives9Bikes`
+
+7. Use a password manager
+
+   * Let it generate and store strong, unique passwords for every account.
+
+8. Change passwords if there’s a breach
+
+   * Check sites like [Have I Been Pwned](https://haveibeenpwned.com/) to see if your info has been leaked.
+
+9. Enable Multi-Factor Authentication (MFA)
+
+   * Use a second verification step (e.g., code sent to phone or an app like Google Authenticator).
+
+10. Test your password
+
+    * Use trusted tools like [passwordmeter.com](https://www.passwordmeter.com/) or [Kaspersky Password Checker](https://password.kaspersky.com/) to check strength.
+
+❌ Common Mistakes to Avoid
+
+* Using simple passwords like `123456`, `admin`, or `letmein`.
+* Keyboard patterns like `qwerty` or `asdfgh`.
+* Reusing the same password across multiple sites.
+* Writing down passwords in unsecured places.
